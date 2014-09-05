@@ -1,7 +1,7 @@
 stringreplace
 =============
 
-Simple command line to replace strings in stdin.
+Simple command line tool replacing strings read from stdin.
 
 __Usage__:
 
